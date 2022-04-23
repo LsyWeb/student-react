@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@umijs/preset-react": "^1.8.24"
+  },
+  "dependencies": {
+    "@ant-design/charts": "^1.2.14",
+    "mockjs": "^1.1.0",
+    "umi": "^3.5.20"
+  },
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build" 
+  }
+}

@@ -1,0 +1,10 @@
+.login-container{
+  width: 400px;
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%);
+}
+.login-container h2{
+  text-align: center;
+}

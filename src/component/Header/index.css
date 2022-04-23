@@ -1,0 +1,19 @@
+.header-container{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  padding: 0 20px;
+  box-sizing: border-box;
+  background-color: #001529;
+}
+.header-container h1{
+  margin: 0;
+  padding: 0;
+  color: inherit;
+}
+.header-container div>span{
+  margin-right: 10px;
+}

@@ -1,0 +1,11 @@
+.student-tab-container {
+  width: 100%;
+  text-align: center;
+  box-sizing: border-box;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+.student-tab-container th,.student-tab-container td{
+  border: 1px solid #ddd;
+  line-height: 30px;
+}
